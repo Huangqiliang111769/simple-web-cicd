@@ -34,8 +34,8 @@ HTML = """<!DOCTYPE html>
 </head>
 <body>
     <div class="card">
-        <h1>🚀 黄祈亮的 CI/CD 实验项目 </h1>
-        <p class="version"> 2440335109 | Python {{ python_version }}</p>
+        <h1>🚀 黄祈亮2440335109的CI/CD实验项目 </h1>
+        <p class="version">Flask App v1.0 | Python {{ python_version }}</p>
         <div class="status">✅ 实验-部署成功</div>
         <div class="info">
             <p><span>容器 ID：</span>{{ hostname }}</p>
