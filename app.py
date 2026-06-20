@@ -35,7 +35,7 @@ HTML = """<!DOCTYPE html>
 <body>
     <div class="card">
         <h1>🚀 黄祈亮的 CI/CD 实验项目 </h1>
-        <p class="version">学号：2440335109 | Python {{ python_version }}</p>
+        <p class="version"> 2440335109 | Python {{ python_version }}</p>
         <div class="status">✅ 实验-部署成功</div>
         <div class="info">
             <p><span>容器 ID：</span>{{ hostname }}</p>
